@@ -32,7 +32,14 @@ Hi there 👋 <br> 👐I'm Sejun Ki, Welcome to my github👐
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br>
-  
+    💡Environment<br>
+</p>
+<p align="center" display="inline-block">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Anaconda%23-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+</p>
+
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
   <br>
