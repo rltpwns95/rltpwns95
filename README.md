@@ -50,4 +50,9 @@ Hi there 👋 <br> 👐I'm Sejun Ki, Welcome to my github👐
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <br>
+<div align="center">
+    
+![JMlee's github stats](https://github-readme-stats.vercel.app/api?username=rltpwns95&show_icons=true)
+![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=rltpwns95&langs_count=10)
+    
 </div>
