@@ -1,5 +1,5 @@
 # Ki Se jun
-### Hi there 👋 </br>I'm Sejun Ki, I hope to Frontend-Engineer
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=008080&height=300&section=header&text=SeJun's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
 
 <br>
@@ -9,8 +9,24 @@
     **notion link** :  <a href="https://www.notion.so/7c0f0a7d953e4741a9541638018af167?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>kiseajun95@naver.com<br>
-<div align=center><h1>📚 STACKS</h1></div>
+    
+</p>
 
+<br>
+
+<p align="center">
+    
+### Hi there 👋 </br> 👐I'm Sejun Ki, Wecome to my github👐
+
+</p>
+
+<br>
+
+<div align=center><h1>📚 STACKS</h1></div>
+</p>
+<p align="center">
+    💡Environment<br>
+</p>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
