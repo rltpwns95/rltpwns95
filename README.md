@@ -2,6 +2,11 @@
 ### Hi there 👋 </br>I'm Sejun Ki, I hope to Frontend-Engineer
 ![header](https://capsule-render.vercel.app/api?type=waving&color=008080&height=300&section=header&text=SeJun's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
 
+<br>
+
+<p align="center">
+    <Strong>☁️Portfolio List☁️</Strong><br><br>
+    **notion link** :  <a href="[https://ljimyeong.notion.site/fdef40653ec546b1988542560d30ce4b](https://www.notion.so/7c0f0a7d953e4741a9541638018af167?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   
 <div align=center><h1>📚 STACKS</h1></div>
 
