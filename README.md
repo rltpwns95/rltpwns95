@@ -15,8 +15,7 @@
 <br>
 
 <p align="center">
-    
-### Hi there 👋 </br> 👐I'm Sejun Ki, Wecome to my github👐
+Hi there 👋 <br> 👐I'm Sejun Ki, Wecome to my github👐
 
 </p>
 
