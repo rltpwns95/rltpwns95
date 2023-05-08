@@ -1,10 +1,7 @@
 # Ki Se jun
 ### Hi there 👋 </br>I'm Sejun Ki, I hope to Frontend-Engineer
+![header](https://capsule-render.vercel.app/api?type=waving&color=81C5E7&height=300&section=header&text=Jimyoung's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
 
-@@ -4,7 +4,7 @@
-
-<p align="center">
-    <Strong>☁️Portfolio List☁️</Strong><br><br>
   
 <div align=center><h1>📚 STACKS</h1></div>
 
