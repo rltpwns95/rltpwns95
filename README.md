@@ -7,7 +7,7 @@
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
     **notion link** :  <a href="https://www.notion.so/7c0f0a7d953e4741a9541638018af167?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-
+counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>kiseajun95@naver.com<br>
 <div align=center><h1>📚 STACKS</h1></div>
