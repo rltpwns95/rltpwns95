@@ -1,6 +1,11 @@
 # Ki Se jun
 ### Hi there 👋 </br>I'm Sejun Ki, I hope to Frontend-Engineer
 
+@@ -4,7 +4,7 @@
+
+<p align="center">
+    <Strong>☁️Portfolio List☁️</Strong><br><br>
+  
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -19,4 +24,3 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
