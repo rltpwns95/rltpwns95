@@ -1,4 +1,4 @@
-# Ki Se un
+# Ki Se Jun
 ### Hi there 👋 </br>I'm SeHun Kim, I hope to Frontend-Engineer
 
 <div align=center><h1>📚 STACKS</h1></div>
