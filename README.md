@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-Hi there 👋 <br> 👐I'm Sejun Ki, Wecome to my github👐
+Hi there 👋 <br> 👐I'm Sejun Ki, Welcome to my github👐
 
 </p>
 
@@ -24,7 +24,7 @@ Hi there 👋 <br> 👐I'm Sejun Ki, Wecome to my github👐
 <div align=center><h1>📚 STACKS</h1></div>
 </p>
 <p align="center">
-    💡Environment<br>
+    💡Language <br>
 </p>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
