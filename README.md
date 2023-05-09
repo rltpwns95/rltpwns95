@@ -77,7 +77,6 @@ Hi there 👋 <br> 👐I'm Sejun Ki, Welcome to my github👐
 ![JMlee's github stats](https://github-readme-stats.vercel.app/api?username=rltpwns95&show_icons=true)<br>
 ![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=rltpwns95&langs_count=10)<br><br>
     
-![rltpwns95's github stats](https://github-readme-stats.vercel.app/api?username=rltpwns95&show_icons=true)
-[![rltpwns95's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rltpwns95&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rltpwns95)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rltpwns95&row=1)](https://github.com/ryo-ma/github-profile-trophy)
     
 </div>
