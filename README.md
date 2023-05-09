@@ -1,5 +1,3 @@
-# Ki Se jun
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=008080&height=300&section=header&text=SeJun's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
 
 <br>
