@@ -13,7 +13,9 @@
 <br>
 
 <p align="center">
-Hi there 👋 <br> 👐I'm Sejun Ki, Welcome to my github👐
+Hi there 👋 <br> 👐I'm Sejun Ki, Welcome to my github👐<br>
+Blog<br>
+https://rltpwns95.github.io/
 
 </p>
 
