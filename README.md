@@ -4,7 +4,8 @@
 
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
-    **notion link** :  <a href="https://www.notion.so/7c0f0a7d953e4741a9541638018af167?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    **notion link** :  <a href="https://www.notion.so/7c0f0a7d953e4741a9541638018af167?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br>
+    **Blog(preparing)** : <a href="https://rltpwns95.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitignoredotio&logoColor=white"></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>kiseajun95@naver.com<br>
     
@@ -14,7 +15,7 @@
 
 <p align="center">
 Hi there 👋 <br> 👐I'm Sejun Ki, Welcome to my github👐<br><br>
-**Blog(preparing)** : <a href="https://rltpwns95.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitignoredotio&logoColor=white"></a>
+
 </p>
 
 <br>
