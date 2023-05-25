@@ -13,8 +13,8 @@
 <br>
 
 <p align="center">
-Hi there 👋 <br> 👐I'm Sejun Ki, Welcome to my github👐<br>
-Blog<br>
+Hi there 👋 <br> 👐I'm Sejun Ki, Welcome to my github👐<br><br>
+Blog(preparing)<br>
 https://rltpwns95.github.io/
 
 </p>
