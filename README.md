@@ -14,7 +14,7 @@
 
 <p align="center">
 Hi there 👋 <br> 👐I'm Sejun Ki, Welcome to my github👐<br><br>
-Blog(preparing)<br>
+**Blog(preparing)** : <a href="https://rltpwns95.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitignoredotio&logoColor=white"></a>
 https://rltpwns95.github.io/
 
 </p>
